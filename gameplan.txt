@@ -1,0 +1,8 @@
+// SUMMS.GG
+
+1. Get current match info
+2. Display all match info - players, champs, summs, items - on interval?
+3. Keep track of in-game time
+4. Click on summoner spells - start timer
+5. Copy to clipboard - (ex: 8:13 Mid F, 7:33 Mid Exh)
+6. Use speech recognition to automate #4
