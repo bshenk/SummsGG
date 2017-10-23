@@ -6,8 +6,13 @@
     "react-scripts": "1.0.14"
   },
   "dependencies": {
+    "axios": "^0.17.0",
+    "cors": "^2.8.4",
+    "leaguejs": "^1.5.7",
+    "moment": "^2.19.1",
     "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.0.0",
+    "react-speech-recognition": "^1.0.4"
   },
   "scripts": {
     "start": "react-scripts start",
